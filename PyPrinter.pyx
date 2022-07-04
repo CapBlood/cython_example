@@ -16,7 +16,7 @@ cdef class PyPrinter:
     def __dealloc__(self):
         del self.c_obj
 
-    def __init__(self):
+    def __cinit__(self):
         self.c_obj = new Printer()
 
     def pprint(self, num):

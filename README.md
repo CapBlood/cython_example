@@ -11,3 +11,6 @@
 
 ## Сборка модуля
 Запустить скрипт build.sh.
+
+## Ссылки
+- Оригинальная [инструкция](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
