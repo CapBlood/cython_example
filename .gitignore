@@ -1,0 +1,7 @@
+.idea
+build
+venv
+cmake-build-debug
+*.so
+PyPrinter.cpp
+PyPrinter.h
